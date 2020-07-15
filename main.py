@@ -38,9 +38,5 @@ if __name__ == "__main__":
         ur = input('\n *Enter Video URL and it enter:')
         yt_single(ur)
     
-    elif ty == 2:
-        
-        ur = input('\n *Enter Playlist URL and it enter:')
-        yt_multi(ur)
 
     
